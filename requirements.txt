@@ -1,0 +1,14 @@
+﻿#
+pyvad
+playsound
+pygobject
+audioread
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+librosa
+wavio
+python-docx
+docxtpl
